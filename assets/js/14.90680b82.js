@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[14],{376:function(n,t,e){"use strict";e.r(t);var u={name:"sku",data:function(){return{}},mounted:function(){},methods:{}},a=e(45),o=Object(a.a)(u,(function(){var n=this.$createElement;return(this._self._c||n)("div")}),[],!1,null,"b1728a96",null);t.default=o.exports}}]);
